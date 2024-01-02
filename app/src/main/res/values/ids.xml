@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buy_tickets" type="id" />
+    <item name="holidays_list" type="id" />
+    <item name="activity_fare_calculator" type="id"/>
+    <item name="tvLink" type="id" />
+    <item name="app_name" type="id" />
+</resources>
