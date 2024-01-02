@@ -7,17 +7,17 @@ Navigate the vast Hyderabad metro network effortlessly and leverage these essent
 1. Route Planning Made Easy
       Quickest Routes: Find the fastest path to your destination within the metro system.
       Optimal Transfers: Minimize interchanges for seamless travel.
-2. Access Information on the Go
+3. Access Information on the Go
       Visual Metro Map: Easily visualize the metro network for easy reference.
     Stay Updated: Get information on offers and holiday schedules right at your fingertips.
-3. Hassle-Free Ticketing
+4. Hassle-Free Ticketing
     Quick Purchases: Buy tickets seamlessly with redirection to popular payment apps.
     Fare Calculator: Calculate your journey's fare hassle-free.
-4. Location-Aware Support
+5. Location-Aware Support
     Find Nearby Stations: Discover the nearest metro stations based on your current location.
-5. Exclusive Deals
+6. Exclusive Deals
     Never Miss Out: Stay informed about exclusive deals and promotions within the metro system.
-6. Interact and Engage
+7. Interact and Engage
     Share Your Feedback: Share your experiences and suggestions via a convenient Google Form.
     Emergency Assistance: Access essential emergency contact information instantly.
     Direct Access: Connect directly to the official Hyderabad metro page.
