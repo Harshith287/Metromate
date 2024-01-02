@@ -1,4 +1,4 @@
-MetroMate: Your Hyderabad Metro Navigator
+###MetroMate: Your Hyderabad Metro Navigator
 MetroMate simplifies your Hyderabad metro travels with an intuitive Android app designed to elevate your commuting experience.
 
 Why MetroMate?
