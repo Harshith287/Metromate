@@ -17,17 +17,17 @@ MetroMate stands as an Android application meticulously designed to simplify and
 - *Metro Map:*  Visualize the comprehensive Hyderabad metro network at your convenience.
 - *Metro Holiday List:* Stay updated on metro offers and holiday schedules.
 
-### 3. Ticketing and Fare
+### 3. Effortless Ticketing and Fare Calculation
 - *Seamless Ticket Purchase:* Swiftly buy tickets through popular payment apps.
 - *Fare Calculator:* Easily determine fares for your metro journey.
 
-### 4. Location-Based Assistance
+### 4. Location-Based Support
 - *Nearest Metro Stations:* Explore the top 10 closest metro stations based on  your current location.
 
-### 5. Exclusive Offers
+### 5. Exclusive Deals and Updates
 - *Special Offers:* Stay updated with ongoing promotions and exclusive deals within the metro system.
 
-### 6. User Interaction
+### 6. Engage and Connect
 - *Feedback Form:* Share your valuable experiences and suggestions via  a conveninet Google Form.
 - *Emergency Contacts:* Quickly access essential emergency contact information.
 - *Direct Access:* Seamlessly connect to the official Hyderabad Metro page.
